@@ -14,9 +14,7 @@ require AutoLoader;
 @EXPORT = qw(
 	
 );
-$VERSION = '0.01';
-
-bootstrap CRC $VERSION;
+$VERSION = '0.02';
 
 # Preloaded methods go here.
 
@@ -102,7 +100,7 @@ __END__
 
 =head1 NAME
 
-CRC - Perl extension for blah blah blah
+CRC - Generic CRC functions
 
 =head1 SYNOPSIS
 
